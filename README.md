@@ -1,12 +1,6 @@
-Правильная архитектура ПО это как результат собранного космического корабля в космосе.
-Разные страны разрабатывают разные запчасти для корабля, даже не общаясь с инженерами, котрые занимаются
-созданием других частей корабля. У каждой команды инженеров есть соотвественный план запчасти и его **Интерфейс**,
-их запчасть это просто пазл который был описан в плане (интерфейсе). И после того как все части корабля были разработаны,
-их просто отправляют в космос по отдельности, потому-что невозможно собрать корабль на земле и отправить такую громадину в космос.
-Каждая часть прибывшая в точку назначения просто пристыковывается с другой частью, они знают к чему должны быть присоединены,
-но не имеют ни малейшего понятия о реализации другой части корабля, но у каждой есть интерфейс (контракт с другой частью), и все части спокойно соединяются в космосе.
+Correct software architecture is like the result of assembling a spaceship in space. Different countries develop different parts for the spacecraft without even communicating with the engineers who build the other parts of the spacecraft. Each team of engineers has an appropriate part plan and its interface, their part is just a puzzle which was described in the plan (interface). And after all the parts of the ship have been designed, they are simply sent into space individually because it is impossible to assemble the ship on earth and send such a huge thing into space. Each part arriving to the destination point is simply connect to another part, they know what they should be attached to, but have no idea about the realization of the other part of the ship, but each part has an interface (a contract with the other part), and all parts are safely joined in space.
 
-Ведь если собирать корабль как (реализацию) единое целое, то любой компонент вышедший из строя приведет в непригодность **Целый** корабль.
+After all, if you assemble the ship as a (realization) whole, any component that fails will render the Whole ship unusable.
 
 <!--
 **ignatiqq/ignatiqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

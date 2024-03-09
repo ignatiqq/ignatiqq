@@ -7,7 +7,3 @@ Hey there! 👋 I'm a frontend developer with a passion for architecting fronten
 
 ### 🛠️ Profile Overview
 ℹ️ In my profile you'll find projects and tools that reflect my journey and interests in frontend development, architecture, and performance optimization.  
-
-### 😇 Let's Connect
-🌟 Interested in discussing frontend architecture, infrastructure, or web performance? Reach out at zzzcap3@gmail.com.  
-🚀 Let's collaborate, learn, and build amazing things together!
